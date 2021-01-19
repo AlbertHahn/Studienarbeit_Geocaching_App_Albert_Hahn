@@ -25,6 +25,7 @@ We make the toolbar appear by clicking on the "burger" in the upper left corner 
 This displays the user's name, as well as their level and accumulated experience.
 
 <img src="https://user-images.githubusercontent.com/55827001/105044905-90a81d00-5a67-11eb-8ff0-c6b4d7385f4c.png" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/55827001/105048372-c949f580-5a6b-11eb-8569-028fc0d41067.png" width="30%" height="30%">
 
 ### Geocaching
 Is a subcategory of the toolbar, this includes functions such as hiding caches by scanning QR codes (https://github.com/zxing/zxing), 
