@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GEO ADVENTURE</string>
+    <string name="scan">Scan</string>
+    <string name="GeocacheName">Geocache Name</string>
+    <string name="google_maps_API_Key">AIzaSyBXyCAqOY7GsCAr-tDgydvd_B7xy-DoMes</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="currentUser">UserName</string>
+    <string name="HideCacheQR">Hide A Cache (QR)</string>
+</resources>

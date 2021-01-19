@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Geocaching">
+        <menu>
+            <item
+                android:id="@+id/miHideCacheQR"
+                android:icon="@drawable/suitcase"
+                android:title="@string/HideCacheQR" />
+
+            <item
+                android:id="@+id/miFastSelect"
+                android:icon="@drawable/trophy"
+                android:title="Place Cache" />
+
+            <item
+                android:id="@+id/miFoundCaches"
+                android:icon="@drawable/pokeball"
+                android:title="Found Caches" />
+
+            <item
+                android:id="@+id/miRemainingCaches"
+                android:icon="@drawable/giftcard"
+                android:title="Remaining Caches" />
+
+        </menu>
+    </item>
+
+    <item android:title="Settings">
+        <menu>
+                <item
+                    android:id="@+id/miItem4"
+                    android:icon="@drawable/map"
+                    android:title="Geofencing"
+                    app:actionLayout="@layout/switch_item" />
+
+                <item
+                    android:id="@+id/miTextToSpeech"
+                    android:icon="@drawable/speakon"
+                    android:title="Text to Speech"
+                    app:actionLayout="@layout/switch_item" />
+
+                <item
+                    android:id="@+id/miSlider"
+                    android:icon="@drawable/circleradius"
+                    android:title="Geofence Radius"
+                    app:actionLayout="@layout/slider" />
+
+            <item
+                android:id="@+id/miSaveGPX"
+                android:icon="@drawable/save"
+                android:title="Save Locations As .gpx" />
+
+                <item
+                    android:id="@+id/miLogout"
+                    android:icon="@drawable/subarrowleft"
+                    android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
