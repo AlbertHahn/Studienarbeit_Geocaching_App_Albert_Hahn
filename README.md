@@ -25,14 +25,16 @@ We make the toolbar appear by clicking on the "burger" in the upper left corner 
 This displays the user's name, as well as their level and accumulated experience.
 
 <img src="https://user-images.githubusercontent.com/55827001/105044905-90a81d00-5a67-11eb-8ff0-c6b4d7385f4c.png" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/55827001/105048372-c949f580-5a6b-11eb-8569-028fc0d41067.png" width="30%" height="30%">
 
 ### Geocaching
 Is a subcategory of the toolbar, this includes functions such as hiding caches by scanning QR codes (https://github.com/zxing/zxing), 
 a list of different objects that we can hide as caches and two lists that tell the user which caches are still to be found on the map 
 and which ones have already been found by him. The geocaches can only be collected by other users.
 
+<p float="left">
 <img src="https://user-images.githubusercontent.com/55827001/105045722-85a1bc80-5a68-11eb-9d79-3f8f8f602169.png" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/55827001/105048372-c949f580-5a6b-11eb-8569-028fc0d41067.png" width="30%" height="30%">
+</p>
 
 ### Settings
 This contains functions such as activating geofences, activating the speech function when finding a cache, setting the geofence radius, 
