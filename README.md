@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/55827001/105046346-4889fa00-5a69-11eb-84f7-87e3fc5d0e05.png" width="100%" height="100%">
 
-# Geo Adventure is a geocaching application for Android, developed for my "Android Development course" at the OTH-Amberg-Weiden.
+# Geo Adventure is a geocaching application for Android. Developed for my "Android Development course" at the OTH-Amberg-Weiden.
 
 Simple Description of the implemented functions:
 
