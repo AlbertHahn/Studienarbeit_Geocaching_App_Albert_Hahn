@@ -12,7 +12,7 @@ This will then be stored in an SQL database located locally on our device. Back 
 
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/55827001/105046783-ce0daa00-5a69-11eb-8d58-b502d62ed3c2.gif" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/55827001/105046783-ce0daa00-5a69-11eb-8d58-b502d62ed3c2.gif" width="30%" height="30%" loop=infinite>
 <img src="https://user-images.githubusercontent.com/55827001/105047591-ce5a7500-5a6a-11eb-9968-70ab3fbe5841.png" width="30%" height="30%">
 </p>
 
