@@ -1,4 +1,4 @@
-Geo Adventure is a geocaching application for Android, developed for my "Android Development" course at the OTH-Amberg-Weiden.
+# Geo Adventure is a geocaching application for Android, developed for my "Android Development course" at the OTH-Amberg-Weiden.
 
 Simple Description of the implemented functions:
 
