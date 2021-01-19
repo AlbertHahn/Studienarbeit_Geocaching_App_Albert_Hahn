@@ -9,7 +9,12 @@ The application starts with an animated splash screen, after the intro you are a
 one to log in and the other to create an account. When clicking on the account we get the option to create a user. 
 This will then be stored in an SQL database located locally on our device. Back from the account menu we can now log in with the newly created user data.
 
+
+
+<p float="left">
 <img src="https://user-images.githubusercontent.com/55827001/105046783-ce0daa00-5a69-11eb-8d58-b502d62ed3c2.gif" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/55827001/105047591-ce5a7500-5a6a-11eb-9968-70ab3fbe5841.png" width="30%" height="30%">
+</p>
 
 ## Main menu
 The main menu is an activity with a Google Maps fragment, with zoom functionality and a toolbar filled with rich functions. 
